@@ -1,5 +1,7 @@
 # Titanium SendGrid
 
+> NOTE: This library became SendGrid's official library for Titanium.  This repo will no longer be maintained.  For an up-to-date version, refer to [https://github.com/sendgrid/ti.sendgrid](https://github.com/sendgrid/ti.sendgrid)
+
 A Sendgrid CommonJS library for Titanium
 
 Simple CommonJS library to be used in Titanium projects in order to
